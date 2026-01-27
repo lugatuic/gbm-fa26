@@ -20,9 +20,9 @@ Please fill out the form and take attendance. It helps us out a lot!
 \normalsize
 We are currently giving people time to get to the event and setting up. Feel free to get comfortable. \newline 
 
-Pizza and soda will be distributed after the presentation is over and the floor is opened to questions.
+Pizza and soda will be distributed after the presentation is over and the floor is opened to questions. \newline
 
-We will begin in 10 minutes or enough people 
+We will begin in 10 minutes or when enough people are present. 
 ::::
 :::
 
@@ -30,6 +30,26 @@ We will begin in 10 minutes or enough people
 \tableofcontents
 
 # What is LUG?
+
+## What is Linux?
+::: columns
+:::: column
+**Linux**: Kernel
+
+- Hardware-Software interface
+- Memory Management, Scheduling, and everything nice
+\newline
+
+**Linux Distribution**: Operating System
+
+- "Linux Distros"
+- 99% package manager differences
+- "Where do I start?" Ubuntu or Mint TBH.
+::::
+:::: column
+
+::::
+:::
 
 ## Why Linux?
 TODO
