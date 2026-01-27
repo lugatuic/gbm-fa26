@@ -32,22 +32,23 @@ We will begin in 10 minutes or when enough people are present.
 # What is LUG?
 
 ## What is Linux?
+<!-- ![By Shmuel Csaba Otto Traian, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=28506087](assets/Linux_kernel_ubiquity.png) -->
+\begin{center}
+\includegraphics[height=2in, width=4in]{assets/Linux_kernel_ubiquity.png}
+\end{center}
 ::: columns
 :::: column
 **Linux**: Kernel
 
 - Hardware-Software interface
 - Memory Management, Scheduling, and everything nice
-\newline
-
-**Linux Distribution**: Operating System
-
-- "Linux Distros"
-- 99% package manager differences
-- "Where do I start?" Ubuntu or Mint TBH.
 ::::
 :::: column
+**Linux Distribution**: OS
 
+- "Linux Distros"
+- Addtl. software on top of Kernel
+- All boil down to package manager
 ::::
 :::
 
