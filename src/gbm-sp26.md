@@ -1,4 +1,3 @@
-<!-- TODO: Sysadmin Slide --->
 ---
 title: LUG General Body Meeting 
 subtitle: Spring 2026 
