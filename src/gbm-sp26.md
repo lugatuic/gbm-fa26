@@ -200,6 +200,24 @@ Develop Cybersecurity skills by participating in online and local CTF competitio
 ::::
 :::: column
 
+\Large\textbf{Infrastructural}
+\normalsize\newline
+
+**Infrastructure**
+
+- Help us migrate to self-hosted!
+- Improve existing services!
+- Set up services for community and individual use!
+
+**Website Articles \& Documentation**
+
+Write articles for the LUG Website!
+
+- Event recaps
+- Technical tutorials
+
+Help document infrastructure \& services!
+
 ::::
 :::
 
