@@ -161,7 +161,7 @@ Learn about networking from both a hardware and software perspective by creating
 **Group Lead:** Luke
 \vspace{0.1in}
 
-Learn about game development in Unreal Engine 5 from blueprinting to advanced UE5 features! Weekly meetings. Location and time TBD.
+Learn about game development in Unreal Engine 5 from blueprinting to advanced UE5 features! Weekly meetings. Online, time TBD.
 
 \vspace{0.1in}
 
