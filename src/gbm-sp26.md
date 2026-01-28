@@ -174,13 +174,59 @@ Develop Cybersecurity skills by participating in online and local CTF competitio
 
 # Getting Involved
 
-## Hosting Events
-TODO
+## Getting Involved
+
+<!-- Hosting Events -->
+<!-- Website Articles -->
+<!-- Become a Contributor -->
+<!-- Infra -->
+
+::: columns
+:::: column
+\Large\textbf{Events \& Meetings}
+\normalsize\newline
+
+**Host an Event!**
+
+- Anyone can host!
+- Learn by doing
+- Anything "Linux-y"
+
+**Become a Contributor!**
+
+- Help set up events!
+- Put up posters!
+- Develop event ideas
+
+::::
+:::: column
+
+::::
+:::
 
 ## Upcoming Events
 
-Linux Week
+\Large\textbf{Linux Week}
+\normalsize
 
-SIG Sysadmin 
+**Dates:** Monday, 2/2/26 - Friday, 2/6/26
+**Time \& Location:** 4-5 PM, CDRLC 1413
 
-Group Meetings
+Never used Linux before? Want a more definitive answer to "what distro should I use?" Join us for Linux Week, *NEXT WEEK*!!!!
+
+\vspace{0.1in}
+
+\Large\textbf{SIG Sysadmin}
+\normalsize
+
+::: columns
+:::: {.column width=60%}
+Join our sister org, ACM's discord and keep an eye on the Sysadmin channel. They are extremely helpful and are the only reason our infrastructure actually works! If you're interested in networking, you will love this SIG! Scan QR for ACM Discord.
+::::
+:::: {.column width=30%}
+\includegraphics[height=1in, width=1in]{assets/acm_qr.png}
+::::
+:::
+
+\vspace{0.1in}
+\Large\textbf{Group Meetings}
