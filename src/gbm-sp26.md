@@ -53,9 +53,6 @@ We will begin in 10 minutes or when enough people are present.
 ::::
 :::
 
-## Why Linux?
-TODO
-
 ## Past Events
 ::: columns
 :::: column 
@@ -180,6 +177,10 @@ Develop Cybersecurity skills by participating in online and local CTF competitio
 ## Hosting Events
 TODO
 
-## Linux Week
+## Upcoming Events
 
-TODO
+Linux Week
+
+SIG Sysadmin 
+
+Group Meetings
