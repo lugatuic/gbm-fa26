@@ -136,7 +136,44 @@ TODO
 :::
 
 ## Groups
-TODO
+::: columns
+:::: column
+\textbf{Rubik}
+\newline
+**Group Lead:** Brayden
+\vspace{0.1in}
+
+Interested in learning about speedcubing? Practice your cubing skills, record times, and compete against other cubers by joining this group! Asynchronous \& Online.
+
+\vspace{0.1in}
+
+\textbf{Network}
+\newline
+**Group Lead:** Patrick
+\vspace{0.1in}
+
+Learn about networking from both a hardware and software perspective by creating a functioning router and analyzing network traffic. Project based. Meeting structure TBD.
+
+::::
+:::: column
+\textbf{Game Development}
+\newline
+**Group Lead:** Luke
+\vspace{0.1in}
+
+Learn about game development in Unreal Engine 5 from blueprinting to advanced UE5 features! Weekly meetings. Location and time TBD.
+
+\vspace{0.1in}
+
+\textbf{CTF}
+\newline
+**Group Lead:** AJ
+\vspace{0.1in}
+
+Develop Cybersecurity skills by participating in online and local CTF competitions on a weekly basis! Represent UIC \& LUG against other teams and schools! Meets weekly. Location and time TBD.
+
+::::
+:::
 
 # Getting Involved
 
