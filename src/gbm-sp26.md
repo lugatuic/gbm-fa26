@@ -1,3 +1,4 @@
+<!-- TODO: Sysadmin Slide --->
 ---
 title: LUG General Body Meeting 
 subtitle: Spring 2026 
@@ -56,12 +57,83 @@ We will begin in 10 minutes or when enough people are present.
 TODO
 
 ## Past Events
-TODO
+::: columns
+:::: column 
+**Past Events**: 
+
+- LUG GBM FA 25
+- Intro to ViM
+- Address Sanitizer
+- ACM X LUG LAN Party 
+- Thinkpads!
+- Don't Be Scared! Game Jam
+- LUG X WiCyS Intro to Cybersecurity 
+::::
+:::: column
+![ACM X LUG LAN Party, Fall 2025](assets/lanparty.jpg)
+::::
+:::
+
+- Hosted by members
+- No experience required; many learn by doing
 
 # Who are we?
 
-## Executive Board
-TODO
+## Admin \& Volunteers
+
+::: columns
+:::: column
+\Large\textbf{Executive Board}
+\normalsize \newline
+
+**Faculty Advisor:** Professor George Maratos
+\vspace{0.1in}
+
+**President:** Michael Hanif Khan
+\vspace{0.1in}
+
+**Vice President:** Jacob Cohen
+\vspace{0.1in}
+
+**Treasurer:** Luke Deany
+\vspace{0.1in}
+
+**Graphic Designer:** Valerie
+\vspace{0.1in}
+
+**Secretary:** Bhumika
+\vspace{0.1in}
+
+**Secretary:** Max Nguyen
+\vspace{0.1in}
+
+**Executive Officer:** Harshit Modi
+::::
+:::: column
+
+\Large\textbf{Contributors}
+\normalsize
+
+- Luis
+- Patrick
+- Brayden
+- Dan
+- Scott
+\newline
+
+\Large\textbf{Additional Support}
+\normalsize\newline
+
+**Extensive Technical Support \& Head Sysadmin:** Chase Lee
+\vspace{0.1in}
+
+**CyberForce Mentor:** Dr. Rigel Gjomemo
+\vspace{0.1in}
+
+**CyberForce Support:** SISL@UIC
+\vspace{0.1in}
+::::
+:::
 
 ## Groups
 TODO
