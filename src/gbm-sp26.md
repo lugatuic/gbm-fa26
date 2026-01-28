@@ -229,3 +229,21 @@ Join our sister org, ACM's discord and keep an eye on the Sysadmin channel. They
 
 \vspace{0.1in}
 \Large\textbf{Group Meetings}
+
+## Attendance \& Pizza
+
+::: columns
+:::: column
+![](assets/coe_qr.png)
+Please fill out the form and take attendance. It helps us out a lot!
+::::
+:::: column
+\Large Thank you for attending! \newline
+
+\normalsize
+
+Pizza will be distributed shortly. Please only come back for seconds once everyone has been given the chance to take a slice. Please only take one slice until you go back for seconds.
+
+Thank you!
+::::
+:::
