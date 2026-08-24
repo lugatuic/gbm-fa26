@@ -17,17 +17,21 @@ Please fill out the form and take attendance. It helps us out a lot!
 :::: column
 \Large Welcome! \newline
 
-\normalsize
-We are currently giving people time to get to the event and setting up. Feel free to get comfortable. \newline 
+\begin{itemize}
+  \item We will begin shortly
+  \item Pizza and soda after the presentation--stay until the end!
+\end{itemize}
+
+<!-- We are currently giving people time to get to the event and setting up. Feel free to get comfortable. \newline 
 
 Pizza and soda will be distributed after the presentation is over and the floor is opened to questions. \newline
 
-We will begin in 10 minutes or when enough people are present. 
+We will begin in 10 minutes or when enough people are present.  -->
 ::::
 :::
 
-## Table of Contents
-\tableofcontents
+<!-- ## Table of Contents
+\tableofcontents -->
 
 # What is LUG?
 
@@ -139,7 +143,11 @@ We will begin in 10 minutes or when enough people are present.
 **Group Lead:** Brayden
 \vspace{0.1in}
 
-Interested in learning about speedcubing? Practice your cubing skills, record times, and compete against other cubers by joining this group! Asynchronous \& Online.
+\begin{itemize}
+  \item Speedcubing practice
+  \item Computing applications, e.g. group theory
+  \item Async \& online
+\end{itemize}
 
 \vspace{0.1in}
 
@@ -148,7 +156,11 @@ Interested in learning about speedcubing? Practice your cubing skills, record ti
 **Group Lead:** Patrick
 \vspace{0.1in}
 
-Learn about networking from both a hardware and software perspective by creating a functioning router and analyzing network traffic. Project based. Meeting structure TBD.
+\begin{itemize}
+  \item Building a router from scratch
+  \item Learning to analyze packets
+  \item Project based
+\end{itemize}
 
 ::::
 :::: column
@@ -157,7 +169,11 @@ Learn about networking from both a hardware and software perspective by creating
 **Group Lead:** Luke
 \vspace{0.1in}
 
-Learn about game development in Unreal Engine 5 from blueprinting to advanced UE5 features! Weekly meetings. Online, time TBD.
+\begin{itemize}
+  \item Unreal Engine 5
+  \item Both blueprinting and C++
+  \item Weekly meetings, online
+\end{itemize}
 
 \vspace{0.1in}
 
@@ -166,7 +182,11 @@ Learn about game development in Unreal Engine 5 from blueprinting to advanced UE
 **Group Lead:** AJ
 \vspace{0.1in}
 
-Develop Cybersecurity skills by participating in online and local CTF competitions on a weekly basis! Represent UIC \& LUG against other teams and schools! Meets weekly. Location and time TBD.
+\begin{itemize}
+  \item Learn cybersecurity
+  \item Online/local CTF competitions
+  \item Weekly meetings
+\end{itemize}
 
 ::::
 :::
@@ -229,7 +249,10 @@ Help document infrastructure \& services!
 **Dates:** Monday, 2/2/26 - Friday, 2/6/26
 **Time \& Location:** 4-5 PM, CDRLC 1413
 
-Never used Linux before? Want a more definitive answer to "what distro should I use?" Join us for Linux Week, *NEXT WEEK*!!!!
+\begin{itemize}
+  \item Five lessons about Linux every day
+  \item Get all your questions answered
+\end{itemize}
 
 \vspace{0.1in}
 
@@ -238,15 +261,18 @@ Never used Linux before? Want a more definitive answer to "what distro should I 
 
 ::: columns
 :::: {.column width=60%}
-Join our sister org, ACM's discord and keep an eye on the Sysadmin channel. They are extremely helpful and are the only reason our infrastructure actually works! If you're interested in networking, you will love this SIG! Scan QR for ACM Discord.
+\begin{itemize}
+  \item Hosted by ACM (join their server)
+  \item Learn about infrastructure \& networking
+\end{itemize}
 ::::
 :::: {.column width=30%}
 \includegraphics[height=1in, width=1in]{assets/acm_qr.png}
 ::::
 :::
 
-\vspace{0.1in}
-\Large\textbf{Group Meetings}
+<!-- \vspace{0.1in}
+\Large\textbf{Group Meetings} -->
 
 ## Attendance \& Pizza
 
@@ -260,8 +286,12 @@ Please fill out the form and take attendance. It helps us out a lot!
 
 \normalsize
 
-Pizza will be distributed shortly. Please only come back for seconds once everyone has been given the chance to take a slice. Please only take one slice until you go back for seconds.
-
+\begin{itemize}
+  \item Questions?
+  \item Stay for pizza
+  \item Seconds only after everyone took a slice
+\end{itemize}
+\hfill \break
 Thank you!
 ::::
 :::
