@@ -1,13 +1,13 @@
 ---
 title: LUG General Body Meeting 
-subtitle: Spring 2026 
+subtitle: Fall 2026 
 author: Start presentation on next slide.
-date: January 28th, 2026
+date: September 9th, 2026
 ---
 
 # Introduction
 
-## LUG General Body Meeting - Spring 2026
+## LUG General Body Meeting - Fall 2026
 
 ::: columns
 :::: column
@@ -22,16 +22,8 @@ Please fill out the form and take attendance. It helps us out a lot!
   \item Pizza and soda after the presentation--stay until the end!
 \end{itemize}
 
-<!-- We are currently giving people time to get to the event and setting up. Feel free to get comfortable. \newline 
-
-Pizza and soda will be distributed after the presentation is over and the floor is opened to questions. \newline
-
-We will begin in 10 minutes or when enough people are present.  -->
 ::::
 :::
-
-<!-- ## Table of Contents
-\tableofcontents -->
 
 # What is LUG?
 
@@ -61,11 +53,12 @@ We will begin in 10 minutes or when enough people are present.  -->
 :::: column 
 **Past Events**: 
 
-- LUG GBM FA 25
-- Intro to ViM
-- Address Sanitizer
-- ACM X LUG LAN Party 
-- Thinkpads!
+- Workshops
+  - Linux Week
+  - Intro to ViM
+  - Address Sanitizer
+  - Thinkpads!
+- ACM X LUG LAN Party
 - Don't Be Scared! Game Jam
 - LUG X WiCyS Intro to Cybersecurity 
 ::::
@@ -138,6 +131,44 @@ We will begin in 10 minutes or when enough people are present.  -->
 ## Groups
 ::: columns
 :::: column
+\textbf{CTF}
+\newline
+**Group Lead:** AJ
+\vspace{0.1in}
+
+\begin{itemize}
+  \item Learn cybersecurity
+  \item Online/local CTF competitions
+  \item Weekly meetings
+\end{itemize}
+
+\vspace{0.1in}
+
+\textbf{Game Development}
+\newline
+**Group Lead:** Luke
+\vspace{0.1in}
+
+\begin{itemize}
+  \item Unreal Engine 5
+  \item Both blueprinting and C++
+  \item Weekly meetings, online
+\end{itemize}
+
+<!-- \textbf{Network}
+\newline
+**Group Lead:** Patrick
+\vspace{0.1in}
+
+\begin{itemize}
+  \item Building a router from scratch
+  \item Learning to analyze packets
+  \item Project based
+\end{itemize} -->
+
+::::
+:::: column
+
 \textbf{Rubik}
 \newline
 **Group Lead:** Brayden
@@ -151,43 +182,6 @@ We will begin in 10 minutes or when enough people are present.  -->
 
 \vspace{0.1in}
 
-\textbf{Network}
-\newline
-**Group Lead:** Patrick
-\vspace{0.1in}
-
-\begin{itemize}
-  \item Building a router from scratch
-  \item Learning to analyze packets
-  \item Project based
-\end{itemize}
-
-::::
-:::: column
-\textbf{Game Development}
-\newline
-**Group Lead:** Luke
-\vspace{0.1in}
-
-\begin{itemize}
-  \item Unreal Engine 5
-  \item Both blueprinting and C++
-  \item Weekly meetings, online
-\end{itemize}
-
-\vspace{0.1in}
-
-\textbf{CTF}
-\newline
-**Group Lead:** AJ
-\vspace{0.1in}
-
-\begin{itemize}
-  \item Learn cybersecurity
-  \item Online/local CTF competitions
-  \item Weekly meetings
-\end{itemize}
-
 ::::
 :::
 
@@ -195,15 +189,14 @@ We will begin in 10 minutes or when enough people are present.  -->
 
 ## Getting Involved
 
-<!-- Hosting Events -->
-<!-- Website Articles -->
-<!-- Become a Contributor -->
-<!-- Infra -->
-
 ::: columns
 :::: column
 \Large\textbf{Events \& Meetings}
 \normalsize\newline
+
+**Visit Us!**
+
+- Our office: CDRLC 2433
 
 **Host an Event!**
 
@@ -214,7 +207,6 @@ We will begin in 10 minutes or when enough people are present.  -->
 **Become a Contributor!**
 
 - Help set up events!
-- Put up posters!
 - Develop event ideas
 
 ::::
@@ -223,20 +215,17 @@ We will begin in 10 minutes or when enough people are present.  -->
 \Large\textbf{Infrastructural}
 \normalsize\newline
 
+<!-- TODO: add pic of the server -->
+
 **Infrastructure**
 
-- Help us migrate to self-hosted!
-- Improve existing services!
+- Help us manage existing services!
 - Set up services for community and individual use!
 
-**Website Articles \& Documentation**
+**Website Articles \& Docs**
 
-Write articles for the LUG Website!
-
-- Event recaps
-- Technical tutorials
-
-Help document infrastructure \& services!
+- Write blogs on our website
+- Learn to write technical documentation
 
 ::::
 :::
@@ -246,7 +235,7 @@ Help document infrastructure \& services!
 \Large\textbf{Linux Week}
 \normalsize
 
-**Dates:** Monday, 2/2/26 - Friday, 2/6/26
+**Dates:** Monday, 9/14/26 - Friday, 9/18/26
 **Time \& Location:** 4-5 PM, CDRLC 1413
 
 \begin{itemize}
@@ -255,6 +244,8 @@ Help document infrastructure \& services!
 \end{itemize}
 
 \vspace{0.1in}
+
+<!-- TODO: replace with CTF meetings? -->
 
 \Large\textbf{SIG Sysadmin}
 \normalsize
@@ -271,8 +262,26 @@ Help document infrastructure \& services!
 ::::
 :::
 
-<!-- \vspace{0.1in}
-\Large\textbf{Group Meetings} -->
+## Hack Nights (new) <!-- TODO: rename event -->
+
+::: columns
+:::: column 
+
+- Every other Friday, 4:00 - 9:00 PM
+  - Starting this week
+  - Join or leave any time
+- Work on projects and hang out
+- Checkpoint: show your progress
+
+\hfill \break
+We are hosting one tonight after this GBM in CDRLC 2433!
+
+::::
+:::: column
+![test caption](assets/lanparty.jpg) <!-- TODO -->
+::::
+:::
+
 
 ## Attendance \& Pizza
 
