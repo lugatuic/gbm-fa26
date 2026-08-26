@@ -235,32 +235,26 @@ Please fill out the form and take attendance. It helps us out a lot!
 \Large\textbf{Linux Week}
 \normalsize
 
-**Dates:** Monday, 9/14/26 - Friday, 9/18/26
-**Time \& Location:** 4-5 PM, CDRLC 1413
+- **Dates:** Monday, 9/14/26 - Friday, 9/18/26
+- **Time \& Location:** 4-5 PM, CDRLC 1413
+- Five lessons about Linux every day
 
-\begin{itemize}
+<!-- \begin{itemize}
   \item Five lessons about Linux every day
   \item Get all your questions answered
-\end{itemize}
+\end{itemize} -->
 
 \vspace{0.1in}
 
-<!-- TODO: replace with CTF meetings? -->
-
-\Large\textbf{SIG Sysadmin}
+\Large\textbf{Intro to CCDC (cybersec. competition)}
 \normalsize
 
-::: columns
-:::: {.column width=60%}
-\begin{itemize}
-  \item Hosted by ACM (join their server)
-  \item Learn about infrastructure \& networking
-\end{itemize}
-::::
-:::: {.column width=30%}
-\includegraphics[height=1in, width=1in]{assets/acm_qr.png}
-::::
-:::
+- **Date:** Wednesday, 9/23/26
+- **Time \& Location:** 4-5 PM, CDRLC 1413
+- Meet the LUG CTF team
+- Learn about cybersecurity competitions
+  - CyberForce
+  - Collegiate Cyber Defense Competition
 
 ## Hack Nights (new) <!-- TODO: rename event -->
 
