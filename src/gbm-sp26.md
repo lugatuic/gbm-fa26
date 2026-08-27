@@ -230,16 +230,14 @@ Please fill out the form and take attendance. It helps us out a lot!
 ::::
 :::
 
-## Upcoming Events
+<!-- ## Upcoming Events
 
 \Large\textbf{Linux Week}
 \normalsize
 
 - **Dates:** Monday, 9/14/26 - Friday, 9/18/26
 - **Time \& Location:** 4-5 PM, CDRLC 1413
-- Five lessons about Linux every day
-
-<!-- TODO: add some image -->
+- Five lessons about Linux every day -->
 
 <!-- \vspace{0.1in}
 
