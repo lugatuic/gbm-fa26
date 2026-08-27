@@ -239,12 +239,9 @@ Please fill out the form and take attendance. It helps us out a lot!
 - **Time \& Location:** 4-5 PM, CDRLC 1413
 - Five lessons about Linux every day
 
-<!-- \begin{itemize}
-  \item Five lessons about Linux every day
-  \item Get all your questions answered
-\end{itemize} -->
+<!-- TODO: add some image -->
 
-\vspace{0.1in}
+<!-- \vspace{0.1in}
 
 \Large\textbf{Intro to CCDC (cybersec. competition)}
 \normalsize
@@ -254,7 +251,7 @@ Please fill out the form and take attendance. It helps us out a lot!
 - Meet the LUG CTF team
 - Learn about cybersecurity competitions
   - CyberForce
-  - Collegiate Cyber Defense Competition
+  - Collegiate Cyber Defense Competition -->
 
 ## Hack Nights (new) <!-- TODO: rename event -->
 
@@ -265,6 +262,7 @@ Please fill out the form and take attendance. It helps us out a lot!
   - Starting this week
   - Join or leave any time
 - Work on projects and hang out
+- Tinker with our hardware
 - Checkpoint: show your progress
 
 \hfill \break
