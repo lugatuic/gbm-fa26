@@ -82,36 +82,40 @@ Please fill out the form and take attendance. It helps us out a lot!
 **Faculty Advisor:** Professor George Maratos
 \vspace{0.1in}
 
-**President:** Michael Hanif Khan
+**President:** Georgi Panchev
 \vspace{0.1in}
 
-**Vice President:** Jacob Cohen
+**Vice President:** Michael Hanif Khan
 \vspace{0.1in}
 
 **Treasurer:** Luke Deany
 \vspace{0.1in}
 
-**Graphic Designer:** Valerie
+**CTF Program:** AJ Arguello
 \vspace{0.1in}
 
-**Secretary:** Bhumika
+**Logistics:** Marcin Gorski
 \vspace{0.1in}
 
-**Secretary:** Max Nguyen
+**Media Team:** Sebastian Mark
 \vspace{0.1in}
 
-**Executive Officer:** Harshit Modi
+<!-- **Executive Officer:** Harshit Modi -->
 ::::
 :::: column
+
+**Groups**: Humzah, Brayden
+\newline
 
 \Large\textbf{Contributors}
 \normalsize
 
-- Luis
-- Patrick
-- Brayden
-- Dan
+- ACM: Sammy, Sam, Luis
+- Bhumika
+- Ted
+- Adrian
 - Scott
+- Dima
 \newline
 
 \Large\textbf{Additional Support}
@@ -120,8 +124,8 @@ Please fill out the form and take attendance. It helps us out a lot!
 **Extensive Technical Support \& Head Sysadmin:** Chase Lee
 \vspace{0.1in}
 
-**CyberForce Mentor:** Dr. Rigel Gjomemo
-\vspace{0.1in}
+<!-- **CyberForce Mentor:** Dr. Rigel Gjomemo
+\vspace{0.1in} -->
 
 **CyberForce Support:** SISL@UIC
 \vspace{0.1in}
@@ -138,7 +142,8 @@ Please fill out the form and take attendance. It helps us out a lot!
 
 \begin{itemize}
   \item Learn cybersecurity
-  \item Online/local CTF competitions
+  \item CTF competitions
+  \item CyberForce/CCDC
   \item Weekly meetings
 \end{itemize}
 
@@ -155,21 +160,10 @@ Please fill out the form and take attendance. It helps us out a lot!
   \item Weekly meetings, online
 \end{itemize}
 
-<!-- \textbf{Network}
-\newline
-**Group Lead:** Patrick
-\vspace{0.1in}
-
-\begin{itemize}
-  \item Building a router from scratch
-  \item Learning to analyze packets
-  \item Project based
-\end{itemize} -->
-
 ::::
 :::: column
 
-\textbf{Rubik}
+\textbf{Cubing}
 \newline
 **Group Lead:** Brayden
 \vspace{0.1in}
@@ -181,6 +175,17 @@ Please fill out the form and take attendance. It helps us out a lot!
 \end{itemize}
 
 \vspace{0.1in}
+
+\textbf{Homebrew}
+\newline
+**Group Lead:** Humzah
+\vspace{0.1in}
+
+\begin{itemize}
+  \item Retro game development
+  \item Using community firmware
+  \item Project based
+\end{itemize}
 
 ::::
 :::
@@ -260,7 +265,8 @@ Please fill out the form and take attendance. It helps us out a lot!
   - Starting this week
   - Join or leave any time
 - Work on projects and hang out
-- Tinker with our hardware
+  - We can help you start a project
+- Tinker with our hardware, drink tea
 - Checkpoint: show your progress
 
 \hfill \break
