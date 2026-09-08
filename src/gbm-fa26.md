@@ -258,26 +258,18 @@ Please fill out the form and take attendance. It helps us out a lot!
 
 ## Hack Nights (new) <!-- TODO: rename event -->
 
-::: columns
-:::: column 
+\vspace{0.1in}
 
 - Every other Friday, 4:00 - 9:00 PM
-  - Starting this week
-  - Join or leave any time
-- Work on projects and hang out
-  - We can help you start a project
+  - Starting this week, join or leave any time
+- Work on projects and hang out -- we can help you start!
 - Tinker with our hardware, drink tea
 - Checkpoint: show your progress
 
+![Our room (CDRLC 2433)](assets/room.jpg){ width=300px margin=auto }
+
 \hfill \break
 We are hosting one tonight after this GBM in CDRLC 2433!
-
-::::
-:::: column
-![test caption](assets/lanparty.jpg) <!-- TODO -->
-::::
-:::
-
 
 ## Attendance \& Pizza
 
