@@ -48,7 +48,7 @@ Please fill out the form and take attendance. It helps us out a lot!
 ::::
 :::
 
-## Past Events
+## LUG Events
 ::: columns
 :::: column 
 **Past Events**: 
@@ -56,19 +56,21 @@ Please fill out the form and take attendance. It helps us out a lot!
 - Workshops
   - Linux Week
   - Intro to ViM
-  - Address Sanitizer
-  - Thinkpads!
-- ACM X LUG LAN Party
-- Don't Be Scared! Game Jam
-- LUG X WiCyS Intro to Cybersecurity 
+  - LUG X WiCyS Intro to Cybersecurity 
+- Semesterly LAN Party
+- Alumni Talks
+  - Apple Alum Talk: Address Sanitizer
+  - ANL Alum Talk: Thinkpads!
 ::::
 :::: column
 ![ACM X LUG LAN Party, Fall 2025](assets/lanparty.jpg)
 ::::
 :::
 
-- Hosted by members
-- No experience required; many learn by doing
+- Member hosted!
+- No experience required, learn by doing!
+- Think we should teach people about something or host a certain event? You can!
+  - Ask in the Discord!
 
 # Who are we?
 
@@ -93,9 +95,6 @@ Please fill out the form and take attendance. It helps us out a lot!
 
 **CTF Program:** AJ Arguello
 \vspace{0.1in}
-
-<!-- **Logistics:** Marcin Gorski -->
-<!-- \vspace{0.1in} -->
 
 **Media Team:** Sebastian Mark
 \vspace{0.1in}
