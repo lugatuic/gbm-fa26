@@ -85,7 +85,7 @@ Please fill out the form and take attendance. It helps us out a lot!
 **President:** Georgi Panchev
 \vspace{0.1in}
 
-**Vice President:** Michael Hanif Khan
+**Vice President:** Michael Khan
 \vspace{0.1in}
 
 **Treasurer:** Luke Deany
@@ -94,8 +94,8 @@ Please fill out the form and take attendance. It helps us out a lot!
 **CTF Program:** AJ Arguello
 \vspace{0.1in}
 
-**Logistics:** Marcin Gorski
-\vspace{0.1in}
+<!-- **Logistics:** Marcin Gorski -->
+<!-- \vspace{0.1in} -->
 
 **Media Team:** Sebastian Mark
 \vspace{0.1in}
@@ -104,22 +104,19 @@ Please fill out the form and take attendance. It helps us out a lot!
 ::::
 :::: column
 
-**Groups**: Humzah, Brayden
+\Large\textbf{User Group Leads}
+\normalsize
+
+- **CTF**: AJ
+- **Game Dev**: Luke
+- **Homebrew**: Humzah
+- **Rubik**: Brayden
 \newline
 
 \Large\textbf{Contributors}
 \normalsize
 
-- ACM: Sammy, Sam, Luis
-- Bhumika
-- Ted
-- Adrian
-- Scott
-- Dima
-\newline
-
-\Large\textbf{Additional Support}
-\normalsize\newline
+Sammy, Sam, Luis, Bhumika, Adrian, Dima, Marcin, and Theodore\newline
 
 **Extensive Technical Support \& Head Sysadmin:** Chase Lee
 \vspace{0.1in}
