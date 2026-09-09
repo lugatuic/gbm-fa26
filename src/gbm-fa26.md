@@ -25,11 +25,26 @@ Please fill out the form and take attendance. It helps us out a lot!
 ::::
 :::
 
-# What is LUG?
+## What is LUG?
 
-## What is Linux?
+::: columns
+:::: column
+
+- Student-led community for Free & Open Source Software (FOSS)
+- Hosting events, workshops, group projects
+- Maintaining our infrastructure
+- Place to experiment and learn
+
+::::
+:::: column
+![Tux](assets/tux.png){ width=150px }
+::::
+:::
+
+
+<!-- ## What is Linux? -->
 <!-- ![By Shmuel Csaba Otto Traian, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=28506087](assets/Linux_kernel_ubiquity.png) -->
-\begin{center}
+<!-- \begin{center}
 \includegraphics[height=2in, width=4in]{assets/Linux_kernel_ubiquity.png}
 \end{center}
 ::: columns
@@ -46,7 +61,7 @@ Please fill out the form and take attendance. It helps us out a lot!
 - Addtl. software on top of Kernel
 - All boil down to package manager
 ::::
-:::
+::: -->
 
 ## LUG Events
 ::: columns
@@ -267,6 +282,23 @@ Sammy, Sam, Luis, Bhumika, Adrian, Dima, Marcin, and Theodore\newline
 
 \hfill \break
 We are hosting one tonight after this GBM in CDRLC 2433!
+
+## Join us!
+
+::: columns
+:::: column
+![](assets/discord.png)
+\begin{center}
+    \textbf{Discord}\\(discord.gg/Edrb8ASX7m)
+\end{center}
+::::
+:::: column
+![](assets/website.png)
+\begin{center}
+    \textbf{Website}\\(lug.cs.uic.edu)
+\end{center}
+::::
+:::
 
 ## Attendance \& Pizza
 
