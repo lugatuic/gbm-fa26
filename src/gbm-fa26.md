@@ -151,7 +151,7 @@ Sammy, Sam, Luis, Bhumika, Adrian, Dima, Marcin, and Theodore\newline
 \vspace{0.1in}
 
 \begin{itemize}
-  \item Team-based game development
+  \item Team-based game development in Godot
   \item Participate in game jams
   \item Weekly meetings, Wednesdays 4-5 PM in CDRLC 2433
   \item Partnered with ACM's SIG-Game
