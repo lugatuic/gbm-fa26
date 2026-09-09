@@ -151,9 +151,10 @@ Sammy, Sam, Luis, Bhumika, Adrian, Dima, Marcin, and Theodore\newline
 \vspace{0.1in}
 
 \begin{itemize}
-  \item Unreal Engine 5
-  \item Both blueprinting and C++
-  \item Weekly meetings, online
+  \item Team-based game development
+  \item Participate in game jams
+  \item Weekly meetings, Wednesdays 4-5 PM in CDRLC 2433
+  \item Partnered with ACM's SIG-Game
 \end{itemize}
 
 ::::
